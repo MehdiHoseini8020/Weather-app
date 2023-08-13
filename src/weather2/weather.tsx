@@ -44,7 +44,7 @@ export default function Weather2() {
       }
     }
   }, [find]);
-  
+    
   return (
     <div
       className="weather2_container"
